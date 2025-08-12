@@ -19,4 +19,4 @@ streamlit run streamlit_app.py
 ```
 
 ## Author
-Prepared for LinkedIn showcase: AI x Energy with interactive ML & prompt engineering examples.
+Prepared By Abdulkarim to showcase: AI x Energy with interactive ML & prompt engineering examples.
